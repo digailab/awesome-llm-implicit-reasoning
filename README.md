@@ -217,18 +217,22 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
     [[arXiv]](https://arxiv.org/abs/2508.03440)
     [[Github]](https://github.com/WJMacro/Randomized-Soft-Thinking)
 
-4. 2025_ACL_SoftCoT_SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.
+4. 2025_arXiv_Soft Tokens, Hard Truths.
+    [[arXiv]](https://arxiv.org/abs/2509.19170)
+
+
+6. 2025_ACL_SoftCoT_SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.
     [[arXiv]](https://arxiv.org/abs/2502.12134)
     [[Github]](https://github.com/xuyige/SoftCoT)
     [[HuggingFace]](https://huggingface.co/papers/2502.12134)
     [[Data-HuggingFace]](https://huggingface.co/datasets/xuyige/ASDiv-Aug)
 
-5. 2025_arXiv_SoftCoT++_SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning.
+7. 2025_arXiv_SoftCoT++_SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning.
     [[arXiv]](https://arxiv.org/abs/2505.11484)
     [[Github]](https://github.com/xuyige/SoftCoT)
     [[HuggingFace]](https://huggingface.co/papers/2505.11484)
 
-6. 2025_arXiv_CoT2_Continuous Chain of Thought Enables Parallel Exploration and Reasoning.
+8. 2025_arXiv_CoT2_Continuous Chain of Thought Enables Parallel Exploration and Reasoning.
    [[arXiv]](https://arxiv.org/abs/2505.23648)
    [[HuggingFace]](https://huggingface.co/papers/2505.23648)
 
