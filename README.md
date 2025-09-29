@@ -134,7 +134,10 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 4. 2025_arXiv_SynAdapt_SynAdapt: Learning Adaptive Reasoning in Large Language Models via Synthetic Continuous Chain-of-Thought.
     [[arXiv]](https://arxiv.org/abs/2508.00574)
 
-
+5. 2025_arXiv_SIM-CoT_SIM-CoT: Supervised Implicit Chain-of-Thought.
+   [[arXiv]](https://arxiv.org/abs/2509.20317)
+   [[Github]](https://github.com/InternLM/SIM-CoT)
+   [[HuggingFace]](https://huggingface.co/collections/Wiselnn/sim-cot-supervised-implicit-chain-of-thought-68d895b00576f6166c19ab4f)
 
 
 
@@ -156,10 +159,6 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
    [[Homepage]](https://colar-latent-reasoning.github.io/)
    [[Github]](https://github.com/xiaomi-research/colar)
 
-4. 2025_arXiv_SIM-CoT_SIM-CoT: Supervised Implicit Chain-of-Thought.
-   [[arXiv]](https://arxiv.org/abs/2509.20317)
-   [[Github]](https://github.com/InternLM/SIM-CoT)
-   [[HuggingFace]](https://huggingface.co/collections/Wiselnn/sim-cot-supervised-implicit-chain-of-thought-68d895b00576f6166c19ab4f)
 
 
 
