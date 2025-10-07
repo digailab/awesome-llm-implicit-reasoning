@@ -292,6 +292,13 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
     [[Github]](https://github.com/skywalker-hub/HRPO1)
     [[HuggingFace]](https://huggingface.co/papers/2505.18454)
 
+8. 2024_arXiv_Copressor_Deliberation in Latent Space via Differentiable Cache Augmentation.
+    [[arXiv]](https://arxiv.org/abs/2412.17747)
+
+9. 2025_arXiv_System 1-2 Communication_Exploring System 1 and 2 Communication for Latent Reasoning in LLMs.
+    [[arXiv]](https://arxiv.org/abs/2510.00494)
+
+
 
 
 ### 3.2 Signal-Guided Control
