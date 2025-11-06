@@ -414,8 +414,11 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
     [[Github]](https://github.com/seal-rg/recurrent-pretraining)
     [[YouTube]](https://www.youtube.com/watch?v=-ZTXnQhH0PQ)
 
+5. 2025_arXiv_Ouro_Scaling Latent Reasoning via Looped Language Models
+   [[arXiv]](https://arxiv.org/abs/2510.25741)
+   [[HomePage]](https://ouro-llm.github.io/)
    
-5. 2025_arXiv_RELAY_Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning.
+6. 2025_arXiv_RELAY_Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning.
     [[arXiv]](https://arxiv.org/abs/2502.08482)
     [[GitHub]](https://github.com/qifanyu/RELAY)
 
