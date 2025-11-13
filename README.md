@@ -96,6 +96,10 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
    [[arXiv]](https://arxiv.org/abs/2502.03275v1)
    [[HuggingFace]](https://huggingface.co/papers/2502.03275)
 
+5. 2025_arXiv_Latent-SFT_Latent Reasoning in LLMs as A Vocabulary Space Superposition.
+   [[arXiv]](https://arxiv.org/abs/2510.15522)
+   [[GitHub]](https://github.com/DJC-GO-SOLO/Latent-SFT)
+
 
 
 
