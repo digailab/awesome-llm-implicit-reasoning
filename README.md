@@ -245,7 +245,10 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
     [[Github]](https://github.com/xuyige/SoftCoT)
     [[HuggingFace]](https://huggingface.co/papers/2505.11484)
 
-8. 2025_arXiv_CoT2_Continuous Chain of Thought Enables Parallel Exploration and Reasoning.
+8. 2025_arXiv_EBM-CoT_Think Consistently Reason Efficiently: Energy-based Calibration for Implicit Chain-of-Thought
+   [[arXiv]](https://arxiv.org/abs/2511.07124)
+
+9. 2025_arXiv_CoT2_Continuous Chain of Thought Enables Parallel Exploration and Reasoning.
    [[arXiv]](https://arxiv.org/abs/2505.23648)
    [[HuggingFace]](https://huggingface.co/papers/2505.23648)
 
