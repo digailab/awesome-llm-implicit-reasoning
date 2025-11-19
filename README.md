@@ -198,6 +198,10 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
     [[HuggingFace]](https://huggingface.co/papers/2503.18866)
     [[YouTube]](https://www.youtube.com/watch?v=ON4VB6Wgqbw)
 
+6. 2025_arXiv_SpiralThinker_SpiralThinker: Latent Reasoning through an Iterative Process with Text-Latent Interleaving.
+    [[arXiv]](https://arxiv.org/abs/2511.08983)
+ 
+
 
 
 
