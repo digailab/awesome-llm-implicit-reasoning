@@ -396,18 +396,16 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 <br/>
 
 
-
-1. 2025_arXiv_ITT_Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking.
-    [[arXiv]](https://arxiv.org/abs/2502.13842)
-    [[HuggingFace]](https://huggingface.co/papers/2502.13842)
-    [[YouTube]](https://www.youtube.com/watch?v=drbIAHOJiDc)
-
-
-2. 2025_ICLR_looped-Transformer_Reasoning with Latent Thoughts: On the Power of Looped Transformers.
+1. 2025_ICLR_looped-Transformer_Reasoning with Latent Thoughts: On the Power of Looped Transformers.
     [[arXiv]](https://arxiv.org/abs/2502.17416)
     [[ICLR]](https://iclr.cc/virtual/2025/poster/28971)
     [[Poster]](https://iclr.cc/media/iclr-2025/Slides/28971.pdf)
     [[Youtube]](https://www.youtube.com/watch?v=S22Bs07HD0k)
+
+2. 2025_arXiv_ITT_Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking.
+    [[arXiv]](https://arxiv.org/abs/2502.13842)
+    [[HuggingFace]](https://huggingface.co/papers/2502.13842)
+    [[YouTube]](https://www.youtube.com/watch?v=drbIAHOJiDc)
 
 
 3. 2025_ICLR_CoTFormer_CoTFormer: A Chain-of-Thought Driven Architecture with Budged-Adaptive Computation Cost at Inference.
@@ -416,20 +414,25 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
     [[arXiv]](https://arxiv.org/abs/2310.10845)
     [[Github]](https://github.com/epfml/cotformer)
 
-   
-4. 2025_arXiv_Huginn_Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach.
+4. 2025_arXiv_TaH_Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models
+    [[arXiv]](https://arxiv.org/abs/2511.08577)
+    [[GitHub]](https://github.com/thu-nics/TaH)
+
+6. 2025_arXiv_RELAY_Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning.
+    [[arXiv]](https://arxiv.org/abs/2502.08482)
+    [[GitHub]](https://github.com/qifanyu/RELAY)
+
+7. 2025_arXiv_Huginn_Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach.
     [[arXiv]](https://arxiv.org/abs/2502.05171)
     [[HuggingFace]](https://huggingface.co/tomg-group-umd/huginn-0125)
     [[Github]](https://github.com/seal-rg/recurrent-pretraining)
     [[YouTube]](https://www.youtube.com/watch?v=-ZTXnQhH0PQ)
 
-5. 2025_arXiv_Ouro_Scaling Latent Reasoning via Looped Language Models
+8. 2025_arXiv_Ouro_Scaling Latent Reasoning via Looped Language Models
    [[arXiv]](https://arxiv.org/abs/2510.25741)
    [[HomePage]](https://ouro-llm.github.io/)
    
-6. 2025_arXiv_RELAY_Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning.
-    [[arXiv]](https://arxiv.org/abs/2502.08482)
-    [[GitHub]](https://github.com/qifanyu/RELAY)
+
 
 
 
