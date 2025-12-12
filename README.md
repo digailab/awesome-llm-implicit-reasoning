@@ -455,7 +455,7 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 
 
 <p align="center">
-    <img src="./figs/tab_7.png" alt="tab_8" width="700" />
+    <img src="./figs/tab_8.png" alt="tab_8" width="700" />
 </p>
 <br/>
 
@@ -578,35 +578,35 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 #### 5.2.1 General Knowledge and Commonsense Reasoning Benchmarks
 
 <p align="center">
-    <img src="./figs/tab_7.png" alt="tab_9" width="700" />
+    <img src="./figs/tab_9.png" alt="tab_9" width="700" />
 </p>
 <br/>
 
 #### 5.2.2 Mathematical Reasoning and Programming Benchmarks
 
 <p align="center">
-    <img src="./figs/tab_8.png" alt="tab_10" width="700" />
+    <img src="./figs/tab_10.png" alt="tab_10" width="700" />
 </p>
 <br/>
 
 #### 5.2.3 Language Modeling and Reading Comprehension Benchmarks
 
 <p align="center">
-    <img src="./figs/tab_9.png" alt="tab_11" width="700" />
+    <img src="./figs/tab_11.png" alt="tab_11" width="700" />
 </p>
 <br/>
 
 #### 5.2.4 Complex Multi-hop and Multidisciplinary QA Benchmarks
 
 <p align="center">
-    <img src="./figs/tab_10.png" alt="tab_12" width="700" />
+    <img src="./figs/tab_12.png" alt="tab_12" width="700" />
 </p>
 <br/>
 
 #### 5.2.5 Multi-modal Reasoning Benchmarks
 
 <p align="center">
-    <img src="./figs/tab_11.png" alt="tab_13" width="700" />
+    <img src="./figs/tab_13.png" alt="tab_13" width="700" />
 </p>
 <br/>
 
