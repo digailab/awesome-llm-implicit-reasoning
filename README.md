@@ -440,7 +440,24 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
    [[HomePage]](https://ouro-llm.github.io/)
    
 
+### 3.4 Discussion
 
+<p align="center">
+    <img src="./figs/tab_7.png" alt="tab_7" width="700" />
+</p>
+<br/>
+
+
+<p align="center">
+    <img src="./figs/fig_7.png" alt="fig_7" width="700" />
+</p>
+<br/>
+
+
+<p align="center">
+    <img src="./figs/tab_7.png" alt="tab_8" width="700" />
+</p>
+<br/>
 
 
    
