@@ -691,8 +691,11 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 1. The-Martyr / Awesome-Multimodal-Reasoning.
    [[Github]](https://github.com/The-Martyr/Awesome-Multimodal-Reasoning)
 
-2. atfortes / Awesome-LLM-Reasoning
+2. atfortes / Awesome-LLM-Reasoning.
    [[GitHub]](https://github.com/atfortes/Awesome-LLM-Reasoning)
+
+3. matinaghaei / Awesome-Latent-Refinement.
+   [[GitHub]](https://github.com/matinaghaei/awesome-latent-refinement)
 
 
 
@@ -710,7 +713,7 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
 4. zcccccz / Awesome-LLM-Implicit-Reasoning.
    [[Github]](https://github.com/zcccccz/Awesome-LLM-Implicit-Reasoning)
 
-5. zzli2022 / Awesome-System2-Reasoning-LLM
+5. zzli2022 / Awesome-System2-Reasoning-LLM.
    [[Github]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)
 
 
